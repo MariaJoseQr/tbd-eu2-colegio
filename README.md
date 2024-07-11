@@ -14,3 +14,6 @@
 #### Reutilización del mismo componente.
 #### Se agregan los campos: Promedio, Condición y Fecha de registro.
 ![image](https://github.com/user-attachments/assets/87f9517c-21a2-46b1-8e92-58a61e5a9ea0)
+
+## 5. Estructura de los documentos en la BD
+![image](https://github.com/user-attachments/assets/fee21bf5-3886-463d-a2ca-d8046fd10632)
